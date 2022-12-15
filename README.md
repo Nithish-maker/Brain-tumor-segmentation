@@ -5,9 +5,9 @@ Segmentation of Brain Tumor using UNet
 
 ## Abstract :fire:
 ```
-Detection of brain tumor using a segmentation approach is critical in cases, where survival of a subject 
-depends on an accurate and timely clinical diagnosis and our proposed approach is based on a fully 
-convolutional network (FCN) and using U-net as the model.
+Detection of brain tumor using a segmentation approach is critical in cases, where survival 
+of a subject depends on an accurate and timely clinical diagnosis and our proposed approach 
+is based on a fully convolutional network (FCN) and using U-net as the model.
 ```
 ## Screenshots :computer:
 
